@@ -1,0 +1,5 @@
+tests/acceptance/CartPageCest.php:VisitCartPage
+tests/acceptance/WelcomePageCest.php:VisitWelcomePage
+tests/functional/OrderCest.php:Order
+tests/functional/SearchCest.php:Find
+tests/functional/SearchCest.php:CatchOfException

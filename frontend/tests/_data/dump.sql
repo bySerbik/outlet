@@ -1,0 +1,3 @@
+-- DELETE
+-- FROM category
+-- WHERE title = 'trial';
